@@ -1,0 +1,37 @@
+body{
+    background-color: green;
+}
+.all-cards{
+    width: 450px;
+    height: 600px;
+    background-color: white;
+    margin-left: 500px;
+    border-radius: 30px;
+    position: relative;
+    display: inline-block;
+
+}
+#top-suit{
+    width: 200px;
+    height: 200px;
+    font-size: 175px;
+    margin-left: 30px;
+    position: absolute;
+}
+#middle{
+    width: 200px;
+    height: 200px;
+    font-size: 150px;
+    margin-top: 200px;
+    margin-left: 175px;
+    position: absolute;
+}
+#bottom-suit{
+    width: 200px;
+    height: 200px;
+    font-size: 175px;
+    margin-top: 400px;
+    margin-left: 320px;
+    position: absolute;
+}
+
